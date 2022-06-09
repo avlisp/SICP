@@ -5,3 +5,4 @@
 * [1.3](exercise-03.scm)
 * [1.4](exercise-04.md)
 * [1.5](exercise-05.md)
+* [1.6](exercise-06.md)
