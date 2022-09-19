@@ -1,3 +1,5 @@
+(load "../modules/math.scm")
+
 ;; Exercise 1.3
 
 (define (sum-squares-of-two-larger a b c)
@@ -14,4 +16,4 @@
 (define (sum-of-squares x y)
   (+ (square x) (square y)))
 
-(define (square x) (* x x))
+(display (sum-squares-of-two-larger 1 2 3)) ; 13
